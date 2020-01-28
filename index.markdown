@@ -12,7 +12,7 @@ layout: home
 </div>
 
 ### Paper:
-- Under minor revision. 
+- Accepted. The camera-ready version is under preparation. 
 
 ### Libraries:
 - *libristretto-elgamal:* Rerandomizable encryption over Curve25519-Ristretto. [\[Code\]](https://github.com/oblivious-file-sharing/libristretto-elgamal) [\[Proof\]](https://github.com/oblivious-file-sharing/compact_elgamal_security_proof)
