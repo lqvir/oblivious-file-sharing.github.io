@@ -12,7 +12,8 @@ layout: home
 </div>
 
 ### Paper:
-- Accepted. The camera-ready version is under preparation. 
+- Metal: A Metadata-Hiding File-Sharing System [\[NDSS\]](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24095.pdf) [\[ePrint\]](https://eprint.iacr.org/2020/083) [\[Video\]](https://www.youtube.com/watch?v=mFwfY6FrXfs&list=PLfUWWM-POgQuyUxvmyq7JBjl4YmDwgsxL&index=3&t=0s)
+  * Weikeng Chen and Raluca Ada Popa
 
 ### Libraries:
 - *libristretto-elgamal:* Rerandomizable encryption over Curve25519-Ristretto. [\[Code\]](https://github.com/oblivious-file-sharing/libristretto-elgamal) [\[Proof\]](https://github.com/oblivious-file-sharing/compact_elgamal_security_proof)
