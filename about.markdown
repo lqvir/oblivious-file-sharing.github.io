@@ -17,5 +17,3 @@ We would like to thank the following persons (in alphabetical order):
 - [Chenkai Weng](https://carlweng.github.io/) (Northwestern)
 - [Samee Zahur](https://github.com/samee) (Google)
 - [Wenting Zheng](https://people.eecs.berkeley.edu/~wzheng/) (UC Berkeley)
-
-The work has been supported by the NSF CISE Expeditions Award CCF-1730628, Jim Gray Fellowship, J. K. Zee Fellowship, as well as gifts from the Sloan Foundation, Bakar, Okawa, and Hellman Fellows Fund, Alibaba, Amazon Web Services, Ant Financial, Capital One, Ericsson, Facebook, Futurewei, Google, Intel, Microsoft, Nvidia,  Scotiabank, Splunk, and VMware. Our benchmark received support from the AWS Cloud Credits for Research program.
