@@ -32,3 +32,5 @@ K. Zee Fellowship, as well as gifts from the Sloan Foundation, Bakar, Okawa, and
 Alibaba, Amazon Web Services, Ant Financial, Capital One, Ericsson, Facebook, Futurewei, Google, Intel,
 Microsoft, Nvidia, Scotiabank, Splunk, and VMware. 
 - Our benchmark received support from the AWS Cloud Credits for Research program.
+- Any opinions, findings, and conclusions or recommendations expressed in this material are those of the
+authors and do not necessarily reflect the views of the National Science Foundation and other funding parties.
