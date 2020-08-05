@@ -25,3 +25,10 @@ layout: home
 
 ### Protocol implementation:
 - To be released.
+
+### Acknowledgment:
+- This work has been supported by the NSF CISE Expeditions Award CCF-1730628, Jim Gray Fellowship, J.
+K. Zee Fellowship, as well as gifts from the Sloan Foundation, Bakar, Okawa, and Hellman Fellows Fund,
+Alibaba, Amazon Web Services, Ant Financial, Capital One, Ericsson, Facebook, Futurewei, Google, Intel,
+Microsoft, Nvidia, Scotiabank, Splunk, and VMware. 
+- Our benchmark received support from the AWS Cloud Credits for Research program.
